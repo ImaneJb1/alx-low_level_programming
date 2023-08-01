@@ -21,5 +21,5 @@ break;
 if (!needle[j])
 return (&haystack[i]);
 }
-return (NULL);
+return (0);
 }
